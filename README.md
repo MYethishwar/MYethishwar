@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MYethishwar
-
-I am passionate about coding and technology. Here’s a picture of me:
-
+# [CLick Here to Visit Yethsihwar Website.](https://myethishwar.github.io/YethishwarDevPortfolio/)
 ![Yethishwar](https://github.com/MYethishwar/YethishwarDevPortfolio/blob/main/assets/images/Yethishwar-website-picture4.png)
-
-Feel free to check out my projects and connect with me!
+### The website is currently under development and has not yet been completed. Your suggestions regarding the website are welcome!
 
